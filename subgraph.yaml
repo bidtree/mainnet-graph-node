@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: Bidtree
-    network: chapel
+    network: bsc
     source:
       address: "0xd9f562B272C1b2fF551feAfBd072d78500510dd7"
       abi: Bidtree
